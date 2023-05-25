@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'ALK Life';
+    src: url('../fonts/alk-life-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/alk-life-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/alk-life-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/alk-life-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/alk-life-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/alk-life-webfont.svg#alk_liferegular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/PlayfairDisplay-Italic.eot');
+    src: url('../fonts/PlayfairDisplay-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/PlayfairDisplay-Italic.woff2') format('woff2'),
+        url('../fonts/PlayfairDisplay-Italic.woff') format('woff'),
+        url('../fonts/PlayfairDisplay-Italic.svg#PlayfairDisplay-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-BlackItalic.eot');
+    src: url('../fonts/Roboto-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Roboto-BlackItalic.woff2') format('woff2'),
+        url('../fonts/Roboto-BlackItalic.woff') format('woff'),
+        url('../fonts/Roboto-BlackItalic.svg#Roboto-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Italic.eot');
+    src: url('../fonts/Roboto-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Roboto-Italic.woff2') format('woff2'),
+        url('../fonts/Roboto-Italic.woff') format('woff'),
+        url('../fonts/Roboto-Italic.svg#Roboto-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Playfair 144pt';
+    src: url('../fonts/Playfair144pt-MediumItalic.eot');
+    src: url('../fonts/Playfair144pt-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Playfair144pt-MediumItalic.woff2') format('woff2'),
+        url('../fonts/Playfair144pt-MediumItalic.woff') format('woff'),
+        url('../fonts/Playfair144pt-MediumItalic.svg#Playfair144pt-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'ALK Tall Nusxuri';
+    src: url('../fonts/alk-tall-nusxuri-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/alk-tall-nusxuri-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/alk-tall-nusxuri-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/alk-tall-nusxuri-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/alk-tall-nusxuri-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/alk-tall-nusxuri-webfont.svg#alk_tall_nusxuriregular') format('svg'); /* Legacy iOS */
+}
